@@ -1466,7 +1466,7 @@ digraph g {
         <tr><td colspan="3" bgcolor="#dddddd" port="立花ゆかり">立花ゆかり<br/><font point-size="8">(2018.6 - 2018.12)</font></td></tr>
         <tr><td colspan="3" bgcolor="#ffffff" port="朝比奈もも">朝比奈もも<br/><font point-size="8">(2018.12 - )</font></td></tr>
         <tr><td colspan="3" bgcolor="#ffffff" port="鈴永璃咲">鈴永璃咲<br/><font point-size="8">(2018.12 - )</font></td></tr>
-        <tr><td colspan="3" bgcolor="#ffffff" port="さくらりおん">さくらりおん<br/><font point-size="8">(2018.12 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="さくらりおん">さくらりおん<br/><font point-size="8">(2018.12 - 2020.11)</font></td></tr>
         <tr><td colspan="3" bgcolor="#dddddd" port="渡辺ミコ">渡辺ミコ<br/><font point-size="8">(2018.12 - 2019.12)</font></td></tr>
         <tr><td colspan="3" bgcolor="#ffffff" port="空叶るり">空叶るり<br/><font point-size="8">(2019.12 - )</font></td></tr>
         </table>>
@@ -1915,6 +1915,9 @@ digraph g {
         <tr><td colspan="3" bgcolor="#ffffff" port="伊勢鈴蘭">伊勢鈴蘭<br/><font point-size="8">(2018.11 - )</font></td></tr>
         <tr><td colspan="3" bgcolor="#dddddd" port="太田遥香">太田遥香<br/><font point-size="8">(2018.11 - 2020.10)</font></td></tr>
         <tr><td colspan="3" bgcolor="#ffffff" port="橋迫鈴">橋迫鈴<br/><font point-size="8">(2019.7 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#ffffff" port="川名凜">川名凜<br/><font point-size="8">(2020.11 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#ffffff" port="松本わかな">松本わかな<br/><font point-size="8">(2020.11 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#ffffff" port="為永幸音">為永幸音<br/><font point-size="8">(2020.11 - )</font></td></tr>
         </table>>
     ];
 
@@ -2214,10 +2217,10 @@ digraph g {
     "CARRY LOOSE" [ label=<
         <table border="0" cellspacing="0" cellborder="1">
         <tr><td colspan="3" bgcolor="#000000"><font color="#ffffff">CARRY LOOSE</font></td></tr>
-        <tr><td colspan="3" bgcolor="#ffffff" port="パン・ルナリーフィ">パン・ルナリーフィ<br/><font point-size="8">(2019.9 - 2020.10)</font></td></tr>
-        <tr><td colspan="3" bgcolor="#ffffff" port="YUiNA EMPiRE">YUiNA EMPiRE<br/><font point-size="8">(2019.9 - 2020.10)</font></td></tr>
-        <tr><td colspan="3" bgcolor="#ffffff" port="ウルウ・ル">ウルウ・ル<br/><font point-size="8">(2019.9 - 2020.10)</font></td></tr>
-        <tr><td colspan="3" bgcolor="#ffffff" port="ユメカ・ナウカナ?">ユメカ・ナウカナ?<br/><font point-size="8">(2019.9 - 2020.10)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="パン・ルナリーフィ">パン・ルナリーフィ<br/><font point-size="8">(2019.9 - 2020.10)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="YUiNA EMPiRE">YUiNA EMPiRE<br/><font point-size="8">(2019.9 - 2020.10)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="ウルウ・ル">ウルウ・ル<br/><font point-size="8">(2019.9 - 2020.10)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="ユメカ・ナウカナ?">ユメカ・ナウカナ?<br/><font point-size="8">(2019.9 - 2020.10)</font></td></tr>
         </table>>
     ];
 
@@ -3670,8 +3673,8 @@ digraph g {
         <tr><td colspan="3" bgcolor="#ffffff" port="久留あずさ">久留あずさ<br/><font point-size="8">(2018.11 - )</font></td></tr>
         <tr><td colspan="3" bgcolor="#ffffff" port="星島ゆい">星島ゆい<br/><font point-size="8">(2018.11 - )</font></td></tr>
         <tr><td colspan="3" bgcolor="#ffffff" port="二瀬ひなた">二瀬ひなた<br/><font point-size="8">(2018.11 - )</font></td></tr>
-        <tr><td colspan="3" bgcolor="#dddddd" port="深月かおり">深月かおり<br/><font point-size="8">(2018.11 - 2020.10)</font></td></tr>
         <tr><td colspan="3" bgcolor="#ffffff" port="星名ふみみ">星名ふみみ<br/><font point-size="8">(2018.11 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="深月かおり">深月かおり<br/><font point-size="8">(2018.11 - 2020.10)</font></td></tr>
         <tr><td colspan="3" bgcolor="#ffffff" port="日南りと">日南りと<br/><font point-size="8">(2020.4 - )</font></td></tr>
         <tr><td colspan="3" bgcolor="#ffffff" port="柊木あいな">柊木あいな<br/><font point-size="8">(2020.4 - )</font></td></tr>
         </table>>
@@ -4736,7 +4739,7 @@ digraph g {
         <tr><td colspan="3" bgcolor="#dddddd" port="藤宮帆乃香">藤宮帆乃香<br/><font point-size="8">(2017.6 - 2017.11)</font></td></tr>
         <tr><td colspan="3" bgcolor="#ffffff" port="橋本琴春">橋本琴春<br/><font point-size="8">(2017.9 - )</font></td></tr>
         <tr><td colspan="3" bgcolor="#ffffff" port="塚野なゆ">塚野なゆ<br/><font point-size="8">(2017.9 - 2020.12)</font></td></tr>
-        <tr><td colspan="3" bgcolor="#ffffff" port="斉藤まなか">斉藤まなか<br/><font point-size="8">(2017.9 - 2020.10)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="斉藤まなか">斉藤まなか<br/><font point-size="8">(2017.9 - 2020.10)</font></td></tr>
         <tr><td colspan="3" bgcolor="#dddddd" port="三池志歩">三池志歩<br/><font point-size="8">(2017.9 - 2019.11)</font></td></tr>
         <tr><td colspan="3" bgcolor="#dddddd" port="市川結愛">市川結愛<br/><font point-size="8">(2017.9 - 2018.2)</font></td></tr>
         <tr><td colspan="3" bgcolor="#dddddd" port="澄川もあ">澄川もあ<br/><font point-size="8">(2017.9 - 2018.1)</font></td></tr>
@@ -5889,7 +5892,7 @@ digraph g {
         <tr><td colspan="3" bgcolor="#ffffff" port="橋本理央菜">橋本理央菜<br/><font point-size="8">(2019.4 - )</font></td></tr>
         <tr><td colspan="3" bgcolor="#ffffff" port="斎藤愛奈">斎藤愛奈<br/><font point-size="8">(2019.9 - )</font></td></tr>
         <tr><td colspan="3" bgcolor="#ffffff" port="坂上舞華">坂上舞華<br/><font point-size="8">(2019.9 - )</font></td></tr>
-        <tr><td colspan="3" bgcolor="#ffffff" port="夏木奈々子">夏木奈々子<br/><font point-size="8">(2019.10 - 2020.10)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="夏木奈々子">夏木奈々子<br/><font point-size="8">(2019.10 - 2020.10)</font></td></tr>
         <tr><td colspan="3" bgcolor="#ffffff" port="藤本南">藤本南<br/><font point-size="8">(2019.12 - )</font></td></tr>
         <tr><td colspan="3" bgcolor="#ffffff" port="岡田紬布">岡田紬布<br/><font point-size="8">(2019.9 - )</font></td></tr>
         <tr><td colspan="3" bgcolor="#ffffff" port="西野結菜">西野結菜<br/><font point-size="8">(2019.9 - )</font></td></tr>
@@ -6828,7 +6831,7 @@ digraph g {
         <tr><td colspan="3" bgcolor="#666666"><font color="#ffffff">研究生</font></td></tr>
         <tr><td colspan="3" bgcolor="#dddddd" port="湊川みる">湊川みる<br/><font point-size="8">(2020.4 - 2020.10)</font></td></tr>
         <tr><td colspan="3" bgcolor="#dddddd" port="瀧沢乃々華">瀧沢乃々華<br/><font point-size="8">(2020.4 - 2020.9)</font></td></tr>
-        <tr><td colspan="3" bgcolor="#dddddd" port="咲乃ゆい">咲乃ゆい<br/><font point-size="8">(2020.4 - 2020.7)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="咲乃ゆい">咲乃ゆい<br/><font point-size="8">(2020.4 - 2020.10)</font></td></tr>
         <tr><td colspan="3" bgcolor="#dddddd" port="藍野玲花">藍野玲花<br/><font point-size="8">(2020.4 - 2020.5)</font></td></tr>
         <tr><td colspan="3" bgcolor="#dddddd" port="羽柴はる">羽柴はる<br/><font point-size="8">(2020.4 - 2020.5)</font></td></tr>
         <tr><td colspan="3" bgcolor="#ffffff" port="白石ひな">白石ひな<br/><font point-size="8">(2020.5 - )</font></td></tr>
@@ -7980,7 +7983,7 @@ digraph g {
         <tr><td colspan="3" bgcolor="#dddddd" port="持田真由">持田真由<br/><font point-size="8">(2016.7 - 2018.7)</font></td></tr>
         <tr><td colspan="3" bgcolor="#ffffff" port="鈴木未央">鈴木未央<br/><font point-size="8">(2016.9 - )</font></td></tr>
         <tr><td colspan="3" bgcolor="#dddddd" port="桜庭あおい">桜庭あおい<br/><font point-size="8">(2016.9 - 2016.11)</font></td></tr>
-        <tr><td colspan="3" bgcolor="#ffffff" port="新川紗矢香">新川紗矢香<br/><font point-size="8">(2017.7 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#ffffff" port="新川紗矢香">新川紗矢香<br/><font point-size="8">(2017.7 - 2020.11)</font></td></tr>
         <tr><td colspan="3" bgcolor="#dddddd" port="三浦司彩">三浦司彩<br/><font point-size="8">(2017.7 - 2017.9)</font></td></tr>
         <tr><td colspan="3" bgcolor="#ffffff" port="七瀬はるか">七瀬はるか<br/><font point-size="8">(2018.3 - )</font></td></tr>
         <tr><td colspan="3" bgcolor="#ffffff" port="椎名音心">椎名音心<br/><font point-size="8">(2018.3 - )</font></td></tr>
@@ -9844,9 +9847,9 @@ digraph g {
         <tr><td colspan="3" bgcolor="#ffffff" port="胡桃沢ひな">胡桃沢ひな<br/><font point-size="8">(2020.1 - )</font></td></tr>
         <tr><td colspan="3" bgcolor="#ffffff" port="和葉七愛">和葉七愛<br/><font point-size="8">(2020.3 - )</font></td></tr>
         <tr><td colspan="3" bgcolor="#ffffff" port="日向端くるみ">日向端くるみ<br/><font point-size="8">(2020.6 - )</font></td></tr>
-        <tr><td colspan="3" bgcolor="#ffffff" port="小川すず">小川すず<br/><font point-size="8">(2020.6 - )</font></td></tr>
         <tr><td colspan="3" bgcolor="#ffffff" port="神崎れおな">神崎れおな<br/><font point-size="8">(2020.6 - )</font></td></tr>
         <tr><td colspan="3" bgcolor="#ffffff" port="姫川りか">姫川りか<br/><font point-size="8">(2020.6 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="小川すず">小川すず<br/><font point-size="8">(2020.6 - 2020.11)</font></td></tr>
         <tr><td colspan="3" bgcolor="#ffffff" port="蒼羽湖鳥">蒼羽湖鳥<br/><font point-size="8">(2020.8 - )</font></td></tr>
         <tr><td colspan="3" bgcolor="#ffffff" port="小森みみ">小森みみ<br/><font point-size="8">(2020.8 - )</font></td></tr>
         <tr><td colspan="3" bgcolor="#ffffff" port="菊池遥">菊池遥<br/><font point-size="8">(2020.8 - )</font></td></tr>
@@ -11176,15 +11179,15 @@ digraph g {
     "ONE CHANCE" [ label=<
         <table border="0" cellspacing="0" cellborder="1">
         <tr><td colspan="3" bgcolor="#000000"><font color="#ffffff">ONE CHANCE</font></td></tr>
-        <tr><td colspan="3" bgcolor="#ffffff" port="熊代珠琳">熊代珠琳<br/><font point-size="8">(2018.7 - 2020.10)</font></td></tr>
-        <tr><td colspan="3" bgcolor="#ffffff" port="武内杏樹">武内杏樹<br/><font point-size="8">(2018.7 - 2020.10)</font></td></tr>
-        <tr><td colspan="3" bgcolor="#ffffff" port="久富愛莉">久富愛莉<br/><font point-size="8">(2018.7 - 2020.10)</font></td></tr>
-        <tr><td colspan="3" bgcolor="#ffffff" port="森瑠菜">森瑠菜<br/><font point-size="8">(2018.7 - 2020.10)</font></td></tr>
-        <tr><td colspan="3" bgcolor="#ffffff" port="平野沙羅">平野沙羅<br/><font point-size="8">(2018.7 - 2020.10)</font></td></tr>
-        <tr><td colspan="3" bgcolor="#ffffff" port="西田ひらり">西田ひらり<br/><font point-size="8">(2018.7 - 2020.10)</font></td></tr>
-        <tr><td colspan="3" bgcolor="#ffffff" port="一岡杏奈">一岡杏奈<br/><font point-size="8">(2018.7 - 2020.10)</font></td></tr>
-        <tr><td colspan="3" bgcolor="#ffffff" port="羽田聡里">羽田聡里<br/><font point-size="8">(2018.7 - 2020.10)</font></td></tr>
-        <tr><td colspan="3" bgcolor="#ffffff" port="清水涼子">清水涼子<br/><font point-size="8">(2018.7 - 2020.10)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="熊代珠琳">熊代珠琳<br/><font point-size="8">(2018.7 - 2020.10)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="武内杏樹">武内杏樹<br/><font point-size="8">(2018.7 - 2020.10)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="久富愛莉">久富愛莉<br/><font point-size="8">(2018.7 - 2020.10)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="森瑠菜">森瑠菜<br/><font point-size="8">(2018.7 - 2020.10)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="平野沙羅">平野沙羅<br/><font point-size="8">(2018.7 - 2020.10)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="西田ひらり">西田ひらり<br/><font point-size="8">(2018.7 - 2020.10)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="一岡杏奈">一岡杏奈<br/><font point-size="8">(2018.7 - 2020.10)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="羽田聡里">羽田聡里<br/><font point-size="8">(2018.7 - 2020.10)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="清水涼子">清水涼子<br/><font point-size="8">(2018.7 - 2020.10)</font></td></tr>
         <tr><td colspan="3" bgcolor="#dddddd" port="小栗かこ">小栗かこ<br/><font point-size="8">(2018.7 - 2019.6)</font></td></tr>
         </table>>
     ];
@@ -11736,6 +11739,9 @@ digraph g {
         <tr><td colspan="3" bgcolor="#ffffff" port="荒井優希">荒井優希<br/><font point-size="8">(2019.7 - )</font></td></tr>
         <tr><td colspan="3" bgcolor="#ffffff" port="桜田桃々子">桜田桃々子<br/><font point-size="8">(2019.7 - )</font></td></tr>
         <tr><td colspan="3" bgcolor="#ffffff" port="平松花梨">平松花梨<br/><font point-size="8">(2019.7 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#666666"><font color="#ffffff">候補生</font></td></tr>
+        <tr><td colspan="3" bgcolor="#ffffff" port="別所愛珠香">別所愛珠香<br/><font point-size="8">(2020.11 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#ffffff" port="帶川蓮里">帶川蓮里<br/><font point-size="8">(2020.11 - )</font></td></tr>
         </table>>
     ];
 
@@ -13210,7 +13216,7 @@ digraph g {
         <table border="0" cellspacing="0" cellborder="1">
         <tr><td colspan="3" bgcolor="#000000"><font color="#ffffff">スリジエ</font></td></tr>
         <tr><td colspan="3" bgcolor="#ffffff" port="山本あこ">山本あこ<br/><font point-size="8">(2017.12 - )</font></td></tr>
-        <tr><td colspan="3" bgcolor="#ffffff" port="英未希">英未希<br/><font point-size="8">(2017.12 - 2020.10)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="英未希">英未希<br/><font point-size="8">(2017.12 - 2020.10)</font></td></tr>
         <tr><td colspan="3" bgcolor="#ffffff" port="中丸葵">中丸葵<br/><font point-size="8">(2017.12 - )</font></td></tr>
         <tr><td colspan="3" bgcolor="#ffffff" port="才川つむぎ">才川つむぎ<br/><font point-size="8">(2017.12 - )</font></td></tr>
         <tr><td colspan="3" bgcolor="#ffffff" port="徳守野乃">徳守野乃<br/><font point-size="8">(2017.12 - )</font></td></tr>
@@ -13636,7 +13642,7 @@ digraph g {
         <tr><td colspan="3" bgcolor="#dddddd" port="こだま霞">こだま霞<br/><font point-size="8">(2016.8 - 2020.5)</font></td></tr>
         <tr><td colspan="3" bgcolor="#ffffff" port="百瀬めい">百瀬めい<br/><font point-size="8">(2016.8 - )</font></td></tr>
         <tr><td colspan="3" bgcolor="#ffffff" port="崎山サラ">崎山サラ<br/><font point-size="8">(2019.8 - )</font></td></tr>
-        <tr><td colspan="3" bgcolor="#ffffff" port="来栖蘭">来栖蘭<br/><font point-size="8">(2019.8 - 2020.10)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="来栖蘭">来栖蘭<br/><font point-size="8">(2019.8 - 2020.10)</font></td></tr>
         </table>>
     ];
 
@@ -13857,11 +13863,11 @@ digraph g {
         <tr><td colspan="3" bgcolor="#dddddd" port="藤本実緒">藤本実緒<br/><font point-size="8">(2015.3 - 2016.3)</font></td></tr>
         <tr><td colspan="3" bgcolor="#dddddd" port="宇佐美彩乃">宇佐美彩乃<br/><font point-size="8">(2016.3 - 2019.4)</font></td></tr>
         <tr><td colspan="3" bgcolor="#dddddd" port="葉月ひなの">葉月ひなの<br/><font point-size="8">(2016.3 - 2018.2)</font></td></tr>
-        <tr><td colspan="3" bgcolor="#ffffff" port="絢優">絢優<br/><font point-size="8">(2016.7 - 2020.10)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="絢優">絢優<br/><font point-size="8">(2016.7 - 2020.10)</font></td></tr>
         <tr><td colspan="3" bgcolor="#dddddd" port="愛田桜子">愛田桜子<br/><font point-size="8">(2017.5 - 2019.4)</font></td></tr>
         <tr><td colspan="3" bgcolor="#ffffff" port="海波きら">海波きら<br/><font point-size="8">(2017.7 - )</font></td></tr>
         <tr><td colspan="3" bgcolor="#dddddd" port="早川麗未">早川麗未<br/><font point-size="8">(2018.3 - 2019.9)</font></td></tr>
-        <tr><td colspan="3" bgcolor="#ffffff" port="如月りお">如月りお<br/><font point-size="8">(2018.7 - 2020.10)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="如月りお">如月りお<br/><font point-size="8">(2018.7 - 2020.10)</font></td></tr>
         <tr><td colspan="3" bgcolor="#ffffff" port="乙野さち">乙野さち<br/><font point-size="8">(2019.5 - )</font></td></tr>
         <tr><td colspan="3" bgcolor="#dddddd" port="咲良はる">咲良はる<br/><font point-size="8">(2019.5 - 2019.8)</font></td></tr>
         <tr><td colspan="3" bgcolor="#ffffff" port="花瀬みく">花瀬みく<br/><font point-size="8">(2019.12 - )</font></td></tr>
@@ -15238,7 +15244,6 @@ digraph g {
     "透-toumei-明" [ label=<
         <table border="0" cellspacing="0" cellborder="1">
         <tr><td colspan="3" bgcolor="#000000"><font color="#ffffff">透-toumei-明</font></td></tr>
-        <tr><td colspan="3" bgcolor="#ffffff" port="優希優里亜">優希優里亜<br/><font point-size="8">(2019.11 - )</font></td></tr>
         <tr><td colspan="3" bgcolor="#ffffff" port="加藤なの">加藤なの<br/><font point-size="8">(2019.11 - )</font></td></tr>
         <tr><td colspan="3" bgcolor="#ffffff" port="愛葉もも">愛葉もも<br/><font point-size="8">(2019.11 - )</font></td></tr>
         <tr><td colspan="3" bgcolor="#ffffff" port="神谷澪奈">神谷澪奈<br/><font point-size="8">(2019.11 - )</font></td></tr>
@@ -15246,6 +15251,7 @@ digraph g {
         <tr><td colspan="3" bgcolor="#ffffff" port="望月朱莉">望月朱莉<br/><font point-size="8">(2019.11 - )</font></td></tr>
         <tr><td colspan="3" bgcolor="#ffffff" port="七瀬結愛">七瀬結愛<br/><font point-size="8">(2019.11 - )</font></td></tr>
         <tr><td colspan="3" bgcolor="#ffffff" port="森川愛菜">森川愛菜<br/><font point-size="8">(2019.11 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#ffffff" port="優希優里亜">優希優里亜<br/><font point-size="8">(2019.11 - 2020.11)</font></td></tr>
         </table>>
     ];
 
@@ -15972,10 +15978,10 @@ digraph g {
         <tr><td colspan="3" bgcolor="#dddddd" port="小田あずみ">Azumi<br/><font point-size="8">(2014.7 - 2020.1)</font></td></tr>
         <tr><td colspan="3" bgcolor="#ffffff" port="pippi">pippi<br/><font point-size="8">(2015.2 - )</font></td></tr>
         <tr><td colspan="3" bgcolor="#dddddd" port="chiaki">chiaki<br/><font point-size="8">(2015.2 - 2016.4)</font></td></tr>
-        <tr><td colspan="3" bgcolor="#dddddd" port="natsuki"><br/><font point-size="8">(2015.2 - 2016.4)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="natsuki">natsuki<br/><font point-size="8">(2015.2 - 2016.4)</font></td></tr>
         <tr><td colspan="3" bgcolor="#dddddd" port="nagisa">nagisa<br/><font point-size="8">(2016.4 - 2017.6)</font></td></tr>
-        <tr><td colspan="3" bgcolor="#ffffff" port="室井ゆう"><br/><font point-size="8">(2017.3 - )</font></td></tr>
-        <tr><td colspan="3" bgcolor="#ffffff" port="美伎あおい">aoi<br/><font point-size="8">(2017.3 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#ffffff" port="室井ゆう">室井ゆう<br/><font point-size="8">(2017.3 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#ffffff" port="美伎あおい">美伎あおい<br/><font point-size="8">(2017.3 - )</font></td></tr>
         <tr><td colspan="3" bgcolor="#dddddd" port="airi">airi<br/><font point-size="8">(2017.3 - 2017.11)</font></td></tr>
         <tr><td colspan="3" bgcolor="#ffffff" port="苺谷ことり">苺谷ことり<br/><font point-size="8">(2020.4 - )</font></td></tr>
         <tr><td colspan="3" bgcolor="#dddddd" port="桜井みるく">桜井みるく<br/><font point-size="8">(2020.4 - 2020.6)</font></td></tr>
@@ -16718,6 +16724,7 @@ digraph g {
         <tr><td colspan="3" bgcolor="#dddddd" port="加藤まい">加藤まい<br/><font point-size="8">(2020.2 - 2020.6)</font></td></tr>
         <tr><td colspan="3" bgcolor="#dddddd" port="小川瑠那">小川瑠那<br/><font point-size="8">(2020.2 - 2020.2)</font></td></tr>
         <tr><td colspan="3" bgcolor="#ffffff" port="小椋妃奈乃">小椋妃奈乃<br/><font point-size="8">(2020.10 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#ffffff" port="天使えみり">天使えみり<br/><font point-size="8">(2020.11 - )</font></td></tr>
         </table>>
     ];
 
@@ -16793,6 +16800,7 @@ digraph g {
         <tr><td colspan="3" bgcolor="#ffffff" port="猫夢りい">猫夢りい<br/><font point-size="8">(2020.8 - )</font></td></tr>
         <tr><td colspan="3" bgcolor="#dddddd" port="文月もか">文月もか<br/><font point-size="8">(2020.8 - 2020.8)</font></td></tr>
         <tr><td colspan="3" bgcolor="#ffffff" port="涼宮あゆ">涼宮あゆ<br/><font point-size="8">(2020.10 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#ffffff" port="柊なな">柊なな<br/><font point-size="8">(2020.11 - )</font></td></tr>
         </table>>
     ];
 
@@ -17067,8 +17075,8 @@ digraph g {
         <tr><td colspan="3" bgcolor="#ffffff" port="琉陀瓶ルン">琉陀瓶ルン<br/><font point-size="8">(2017.11 - )</font></td></tr>
         <tr><td colspan="3" bgcolor="#dddddd" port="ルカタマ">ルカタマ<br/><font point-size="8">(2018.1 - 2020.2)</font></td></tr>
         <tr><td colspan="3" bgcolor="#ffffff" port="崎村ゆふぃ">崎村ゆふぃ<br/><font point-size="8">(2018.2 - )</font></td></tr>
-        <tr><td colspan="3" bgcolor="#ffffff" port="知世千世">知世千世<br/><font point-size="8">(2018.2 - )</font></td></tr>
-        <tr><td colspan="3" bgcolor="#ffffff" port="あみのころみ">あみのころみ<br/><font point-size="8">(2018.2 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#ffffff" port="知世千世">知世千世<br/><font point-size="8">(2020.4 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#ffffff" port="あみのころみ">あみのころみ<br/><font point-size="8">(2020.4 - )</font></td></tr>
         </table>>
     ];
 
@@ -17087,6 +17095,228 @@ digraph g {
         </table>>
     ];
 
+    "ミライスカート" [ label=<
+        <table border="0" cellspacing="0" cellborder="1">
+        <tr><td colspan="3" bgcolor="#000000"><font color="#ffffff">ミライスカート</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="田中千菜美">田中千菜美<br/><font point-size="8">(2011.11 - 2013.3)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="伊田由衣">伊田由衣<br/><font point-size="8">(2011.11 - 2013.3)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="吉川ユリ">吉川ユリ<br/><font point-size="8">(2011.11 - 2012.2)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#ffffff" port="児島真理奈">児島真理奈<br/><font point-size="8">(2014.2 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="橋本珠菜">橋本珠菜<br/><font point-size="8">(2014.2 - 2017.6)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="相谷麗菜">相谷麗菜<br/><font point-size="8">(2014.2 - 2017.5)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="林奈緒美">林奈緒美<br/><font point-size="8">(2014.2 - 2016.12)</font></td></tr>
+        </table>>
+    ];
+
+    "せのしすたぁ" [ label=<
+        <table border="0" cellspacing="0" cellborder="1">
+        <tr><td colspan="3" bgcolor="#000000"><font color="#ffffff">せのしすたぁ</font></td></tr>
+        <tr><td colspan="3" bgcolor="#ffffff" port="まお">まお<br/><font point-size="8">(2012.10 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="ゆうほ">ゆうほ<br/><font point-size="8">(2012.10 - 2014.4)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="ゆま">ゆま<br/><font point-size="8">(2012.10 - 2013.12)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#ffffff" port="ゆーたん">ゆーたん<br/><font point-size="8">(2014.4 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="みか">みか<br/><font point-size="8">(2014.4 - 2017.3)</font></td></tr>
+        </table>>
+    ];
+
+    "アミーガス" [ label=<
+        <table border="0" cellspacing="0" cellborder="1">
+        <tr><td colspan="3" bgcolor="#000000"><font color="#ffffff">アミーガス</font></td></tr>
+        <tr><td colspan="3" bgcolor="#ffffff" port="まお">まお<br/><font point-size="8">( - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#ffffff" port="ゆりな">ゆりな<br/><font point-size="8">( - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#ffffff" port="ゆい">ゆい<br/><font point-size="8">( - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#ffffff" port="みゆう">みゆう<br/><font point-size="8">( - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#ffffff" port="ひまり">ひまり<br/><font point-size="8">( - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#ffffff" port="みゆい">みゆい<br/><font point-size="8">( - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#ffffff" port="みお">みお<br/><font point-size="8">( - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="ちか">ちか<br/><font point-size="8">( - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="ジェシカ">ジェシカ<br/><font point-size="8">( - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="はんな">はんな<br/><font point-size="8">( - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="みさき">みさき<br/><font point-size="8">( - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="あやの">あやの<br/><font point-size="8">( - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="ひなの">ひなの<br/><font point-size="8">( - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="ゆま">ゆま<br/><font point-size="8">( - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="ゆうほ">ゆうほ<br/><font point-size="8">( - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="さくら">さくら<br/><font point-size="8">( - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="ほのか">ほのか<br/><font point-size="8">( - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="ゆい">ゆい<br/><font point-size="8">( - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="みな">みな<br/><font point-size="8">( - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="あんな">あんな<br/><font point-size="8">( - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="まなみ">まなみ<br/><font point-size="8">( - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="きらら">きらら<br/><font point-size="8">( - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="さら">さら<br/><font point-size="8">( - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="みゆう">みゆう<br/><font point-size="8">( - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="ゆめ">ゆめ<br/><font point-size="8">( - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="ふうか">ふうか<br/><font point-size="8">( - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="ちはる">ちはる<br/><font point-size="8">( - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="みか">みか<br/><font point-size="8">( - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="ゆか">ゆか<br/><font point-size="8">( - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="なつき">なつき<br/><font point-size="8">( - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="くにか">くにか<br/><font point-size="8">( - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="くにほ">くにほ<br/><font point-size="8">( - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="なる">なる<br/><font point-size="8">( - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="ひゆか">ひゆか<br/><font point-size="8">( - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="ゆうり">ゆうり<br/><font point-size="8">( - )</font></td></tr>
+        </table>>
+    ];
+
+    "彼女のサーブ&レシーブ" [ label=<
+        <table border="0" cellspacing="0" cellborder="1">
+        <tr><td colspan="3" bgcolor="#000000"><font color="#ffffff">彼女のサーブ&amp;レシーブ</font></td></tr>
+        <tr><td colspan="3" bgcolor="#ffffff" port="あおぎ">あおぎ<br/><font point-size="8">(2017.4 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="くわはらゆみ">くわはらゆみ<br/><font point-size="8">(2017.4 - 2017.4)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#ffffff" port="えり">えり<br/><font point-size="8">(2017.6 - )</font></td></tr>
+        </table>>
+    ];
+
+    "963" [ label=<
+        <table border="0" cellspacing="0" cellborder="1">
+        <tr><td colspan="3" bgcolor="#000000"><font color="#ffffff">963</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="古賀哉子">古賀哉子<br/><font point-size="8">( - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="浦底瑛月">浦底瑛月<br/><font point-size="8">( - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="安達葵紬">安達葵紬<br/><font point-size="8">( - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="岩本友里亜">岩本友里亜<br/><font point-size="8">( - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="平野花菜">平野花菜<br/><font point-size="8">( - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="奥田七海">奥田七海<br/><font point-size="8">( - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#ffffff" port="ぴーぴる">ぴーぴる<br/><font point-size="8">(2015.7 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="やーぷん">やーぷん<br/><font point-size="8">(2015.7 - 2016.6)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="ねーぷん">ねーぷん<br/><font point-size="8">(2016.10 - 2017.5)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="まーろる">まーろる<br/><font point-size="8">(2017.5 - 2018.4)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="あーぐる">あーぐる<br/><font point-size="8">(2017.10 - 2018.4)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#ffffff" port="れーゆる">れーゆる<br/><font point-size="8">(2017.12 - )</font></td></tr>
+        </table>>
+    ];
+
+    "ラフ☆ちっく" [ label=<
+        <table border="0" cellspacing="0" cellborder="1">
+        <tr><td colspan="3" bgcolor="#000000"><font color="#ffffff">ラフ☆ちっく</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="えりんこ">えりんこ<br/><font point-size="8">(2015.4 - 2018.5)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="ゆいこ">ゆいこ<br/><font point-size="8">(2015.4 - 2017.3)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="みやぺちーの">みやぺちーの<br/><font point-size="8">(2015.4 - 2017.3)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="ぎーちゃん">ぎーちゃん<br/><font point-size="8">(2015.4 - 2017.2)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="あゆぴー">あゆぴー<br/><font point-size="8">(2015.4 - 2016)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="かなっぺ">かなっぺ<br/><font point-size="8">(2015.4 - 2015.4)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="あいのん">あいのん<br/><font point-size="8">(2015.12 - 2018.12)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="くっぴ">くっぴ<br/><font point-size="8">(2015.12 - 2017.3)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="ゆりめろ">ゆりめろ<br/><font point-size="8">(2015.12 - 2018.12)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="ちろる">ちろる<br/><font point-size="8">(2016.1 - 2017.8)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="さっきん">さっきん<br/><font point-size="8">(2016.1 - 2017.12)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="わかろん">わかろん<br/><font point-size="8">(2016.9 - 2018.12)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="せぶ">せぶ<br/><font point-size="8">(2017.8 - 2018.3)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="さらみ">さらみ<br/><font point-size="8">(2017.8 - 2018.3)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="あーぐる">あーぐる<br/><font point-size="8">(2018.5 - 2018.12)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="まなぽん">まな<br/><font point-size="8">(2018.5 - 2018.12)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="ききりん">きき<br/><font point-size="8">(2018.5 - 2018.12)</font></td></tr>
+        </table>>
+    ];
+
+    "最高じぇねれーしょん" [ label=<
+        <table border="0" cellspacing="0" cellborder="1">
+        <tr><td colspan="3" bgcolor="#000000"><font color="#ffffff">最高じぇねれーしょん<br/>(MAONATSU)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#ffffff" port="まお">まお<br/><font point-size="8">(2017.9 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#ffffff" port="夏花">夏花<br/><font point-size="8">(2017.9 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#ffffff" port="ぱぴむム">ぱぴむム<br/><font point-size="8">(2018.2 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#ffffff" port="あおぎ">あおぎ<br/><font point-size="8">(2019.3 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#ffffff" port="あべりか">あべりか<br/><font point-size="8">(2019.3 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#ffffff" port="林奈緒美">林奈緒美<br/><font point-size="8">(2020.9 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#ffffff" port="田中あめり">田中あめり<br/><font point-size="8">(2020.9 - )</font></td></tr>
+        </table>>
+    ];
+
+    "EUPHØLIC" [ label=<
+        <table border="0" cellspacing="0" cellborder="1">
+        <tr><td colspan="3" bgcolor="#000000"><font color="#ffffff">EUPHØLIC</font></td></tr>
+        <tr><td colspan="3" bgcolor="#ffffff" port="蒼井すみ">蒼井すみ<br/><font point-size="8">(2020.9 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#ffffff" port="赤星リョウ">赤星リョウ<br/><font point-size="8">(2020.9 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#ffffff" port="榊原史織">榊原史織<br/><font point-size="8">(2020.9 - )</font></td></tr>
+        </table>>
+    ];
+
+    "KNU" [ label=<
+        <table border="0" cellspacing="0" cellborder="1">
+        <tr><td colspan="3" bgcolor="#000000"><font color="#ffffff">KNU<br/>(KNU23)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="寿エリカ">寿エリカ<br/><font point-size="8">(2010.8 - 2018.6)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="北条佳奈">北条佳奈<br/><font point-size="8">(2010.8 - 2018.6)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="山咲まりな">山咲まりな<br/><font point-size="8">(2010.8 - 2018.6)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="相原乃依">相原乃依<br/><font point-size="8">(2010.8 - 2013.11)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="安達えりか">安達えりか<br/><font point-size="8">(2010.8 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="磯部舞奈">磯部舞奈<br/><font point-size="8">(2010.8 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="上田ひな">上田ひな<br/><font point-size="8">(2010.8 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="上田レナ">上田レナ<br/><font point-size="8">(2010.8 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="木村真帆">木村真帆<br/><font point-size="8">(2010.8 - 2014.1)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="楠木ひかり">楠木ひかり<br/><font point-size="8">(2010.8 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="桜井真紀">桜井真紀<br/><font point-size="8">(2010.8 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="早月れい">早月れい<br/><font point-size="8">(2010.8 - 2011.9)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="涼本めぐみ">涼本めぐみ<br/><font point-size="8">(2010.8 - 2014.9)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="瀬戸ありさ">瀬戸ありさ<br/><font point-size="8">(2010.8 - 2011.3)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="滝沢えな">滝沢えな<br/><font point-size="8">(2010.8 - 2011.12)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="永山久美子">永山久美子<br/><font point-size="8">(2010.8 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="新田夏鈴">新田夏鈴<br/><font point-size="8">(2010.8 - 2013.5)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="福沢真由子">福沢真由子<br/><font point-size="8">(2010.8 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="宝来あかね">宝来あかね<br/><font point-size="8">(2010.8 - 2011.10)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="丸山莉奈">丸山莉奈<br/><font point-size="8">(2010.8 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="南紗椰">南紗椰<br/><font point-size="8">(2010.8 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="南菜々子">南菜々子<br/><font point-size="8">(2010.8 - 2017.9)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="東條詩織">東條詩織<br/><font point-size="8">(2011.5 - 2018.6)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="綾部美佐">綾部美佐<br/><font point-size="8">(2011.5 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="麻生英奈">麻生英奈<br/><font point-size="8">(2011.5 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="小田ゆかり">小田ゆかり<br/><font point-size="8">(2011.5 - 2012.11)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="工藤のぞみ">工藤のぞみ<br/><font point-size="8">(2011.5 - 2012.11)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="小湊あや">小湊あや<br/><font point-size="8">(2011.5 - 2014.9)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="千鶴">千鶴<br/><font point-size="8">(2011.5 - 2011.9)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="野田結花">野田結花<br/><font point-size="8">(2011.5 - 2011.9)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="水沢優那">水沢優那<br/><font point-size="8">(2011.5 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="山下れい">山下れい<br/><font point-size="8">(2011.5 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="吉野かおる">吉野かおる<br/><font point-size="8">(2011.5 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="若原麻希">若原麻希<br/><font point-size="8">(2011.5 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="長澤ちはる">長澤ちはる<br/><font point-size="8">(2011.10 - 2018.6)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="井上貴惠">井上貴惠<br/><font point-size="8">(2012.2 - 2018.6)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="宇那">宇那<br/><font point-size="8">(2012.2 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="宮岡真央">宮岡真央<br/><font point-size="8">(2012.2 - 2014.1)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="芝崎めぐ">芝崎めぐ<br/><font point-size="8">(2012.2 - 2014.8)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="大久保れぇ">大久保れぇ<br/><font point-size="8">(2013.9 - 2018.6)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="遠藤優利">遠藤優利<br/><font point-size="8">(2013.9 - 2014.6)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="武下もか">武下もか<br/><font point-size="8">(2014.12 - 2017.8)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="岡村めぐみ">岡村めぐみ<br/><font point-size="8">(2015.6 - 2018.6)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="ほのか雪乃">ほのか雪乃<br/><font point-size="8">(2015.11 - 2017.12)</font></td></tr>
+        </table>>
+    ];
+
+    "Regina" [ label=<
+        <table border="0" cellspacing="0" cellborder="1">
+        <tr><td colspan="3" bgcolor="#000000"><font color="#ffffff">Regina</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="松本寧々">松本寧々<br/><font point-size="8">(2011.12 - 2013.7)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="刻田麻亜子">刻田麻亜子<br/><font point-size="8">(2011.12 - 2012.8)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="若原麻希">若原麻希<br/><font point-size="8">(2011.12 - 2012.8)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="カカ">カカ<br/><font point-size="8">(2011.12 - 2012.4)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="松本香穂">松本香穂<br/><font point-size="8">(2012.4 - 2013.3)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="夏宮エル">夏宮エル<br/><font point-size="8">(2012.9 - 2013.7)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="北嶋麗奈">北嶋麗奈<br/><font point-size="8">(2012.9 - 2013.7)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="森園れん">森園れん<br/><font point-size="8">(2012.9 - 2013.7)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="矢ケ崎奈菜">矢ケ崎奈菜<br/><font point-size="8">(2013.3 - 2013.7)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="桜木みき">桜木みき<br/><font point-size="8">(2013.3 - 2013.7)</font></td></tr>
+        </table>>
+    ];
+
+    "Vitamin Kiss" [ label=<
+        <table border="0" cellspacing="0" cellborder="1">
+        <tr><td colspan="3" bgcolor="#000000"><font color="#ffffff">Vitamin Kiss</font></td></tr>
+        <tr><td colspan="3" bgcolor="#ffffff" port="REEREE">REEREE<br/><font point-size="8">(2018.12 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#ffffff" port="RNP">RNP<br/><font point-size="8">(2018.12 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#ffffff" port="NATSU">NATSU<br/><font point-size="8">(2018.12 - )</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="MILEY">MILEY<br/><font point-size="8">(2018.12 - 2019.12)</font></td></tr>
+        </table>>
+    ];
+
+    "Tokyo Flight 5" [ label=<
+        <table border="0" cellspacing="0" cellborder="1">
+        <tr><td colspan="3" bgcolor="#000000"><font color="#ffffff">Tokyo Flight 5</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="別所愛珠香">別所愛珠香<br/><font point-size="8">(2019.3 - 2020.10)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="大下栞奈">大下栞奈<br/><font point-size="8">(2019.3 - 2019.10)</font></td></tr>
+        <tr><td colspan="3" bgcolor="#dddddd" port="山間あゆ">山間あゆ<br/><font point-size="8">(2019.3 - 2019.10)</font></td></tr>
+        </table>>
+    ];
+
     /*
     "" [ label=<
         <table border="0" cellspacing="0" cellborder="1">
@@ -17096,15 +17326,6 @@ digraph g {
     ];
     */
 
-    "めろん畑a go go":"ミュータントみゆ太郎" -> "SKIRMISH":"baby";
-    "The Grateful a MogAAAz":"知世千世" -> "めろん畑a go go":"知世千世";
-    "ICE CREAM SUICIDE":"山田ゆとり" -> "SKIRMISH":"山田ゆとり";
-    "ICE CREAM SUICIDE":"日向せりか" -> "絶対直球女子!プレイボールズ":"郡司芹香";
-    "Buzzly":"小川月愛" -> "雨上がりのラプソディ":"小川瑠愛";
-    "expiece":"松下ひよこ" -> "ゆめはじ":"加仲ひよこ" -> "K+RANK'IN":"加仲ひよこ";
-    "アイドル諜報機関LEVEL7":"秋元美咲" -> "K+RANK'IN":"秋元美咲";
-    "utatane":"花咲もあ" -> "変ワルセカイと変ワラナイモノ":"花咲もあ";
-    "ナナランド":"牧野あやみ" -> "LOVEbite":"漆間あやみ";
     "#いちごのヘタですっころ部":"こねぎ" -> "EMOE":"へち";
     "#いちごのヘタですっころ部":"さくら" -> "EMOE":"さくら";
     "#いちごのヘタですっころ部":"ゆの" -> "さっきの女の子、":"有明ゆの";
@@ -17156,6 +17377,10 @@ digraph g {
     "81moment":"清水理子" -> "虹のコンキスタドール":"清水理子";
     "81moment":"皆川優香" -> "おやすみセカイ":"皆川優香";
     "8princess":"荒井優希" -> "Clapotis":"荒井優希";
+    "963":"あーぐる" -> "ラフ☆ちっく":"あーぐる";
+    "963":"古賀哉子" -> "LaLuce":"古賀哉子";
+    "963":"安達葵紬" -> "ラフ☆ちっく":"ぎーちゃん" -> "彼女のサーブ&レシーブ":"あおぎ" -> "最高じぇねれーしょん":"あおぎ";
+    "963":"平野花菜" -> "ラフ☆ちっく":"かなっぺ";
     "AIS -All Idol Songs-":"島崎友莉亜" -> "アップアップガールズ（２）":"島崎友莉亜";
     "AIS -All Idol Songs-":"栗原舞優" -> "リルネード":"栗原舞優";
     "ALLOVER":"中山瀬梨奈" -> "DearD":"中山瀬梨奈";
@@ -17253,6 +17478,7 @@ digraph g {
     "BunnyRap":"岩井彩香" -> "WildBunny":"岩井彩香";
     "BunnyRap":"矢倉梨々香" -> "おやすみセカイ":"城乃りりか";
     "Bury":"雨勿しほり" -> "Aphrodite":"しゆう";
+    "Buzzly":"小川月愛" -> "雨上がりのラプソディ":"小川瑠愛";
     "CANDY GO!GO!":"高橋ナツミ" -> "桜丘ショコラ":"高橋ナツミ" -> "DISDOL":"高橋ナツミ";
     "CANDYIISTRIPE_NEO":"じゅり" -> "143∽":"瀬奈ジュリ";
     "CANDYIISTRIPE_NEO":"はるか" -> "ゆるっと革命団":"七瀬はるか";
@@ -17396,6 +17622,8 @@ digraph g {
     "I'S wing":"徳永裕梨" -> "IsTaR":"YUURI";
     "I'S wing":"湯浅実玖" -> "九州女子翼":"実玖";
     "I'S wing":"近藤李砂" -> "IsTaR":"李砂";
+    "ICE CREAM SUICIDE":"山田ゆとり" -> "SKIRMISH":"山田ゆとり";
+    "ICE CREAM SUICIDE":"日向せりか" -> "絶対直球女子!プレイボールズ":"郡司芹香";
     "ICE☆PASTEL":"佐藤祐歌" -> "フルーティー":"佐藤祐歌" -> "alma":"犬神ユウ";
     "ICE☆PASTEL":"千葉憂紀乃" -> "HIGH SPIRITS":"千葉憂紀乃";
     "ICE☆PASTEL":"天野七星" -> "WiLL":"天野七星" -> "Jewel☆Ciel":"天音七星";
@@ -17435,6 +17663,10 @@ digraph g {
     "KAWAII TOKYO GIRLS":"川合ニイナ" -> "わんちゃんいやほい！":"川合ニイナ";
     "KAWAII TOKYO GIRLS":"斉藤ななか" -> "わんちゃんいやほい！":"斉藤ななか";
     "KAWAII TOKYO GIRLS":"高田亜里沙" -> "好きになったら死ねますか？":"高田亜里沙";
+    "KNU":"井上貴惠" -> "サンスポアイドルリポーター":"井上貴恵";
+    "KNU":"大久保れぇ" -> "Vitamin Kiss":"REEREE";
+    "KNU":"東條詩織" -> "EUPHØLIC":"榊原史織";
+    "KNU":"若原麻希" -> "Regina":"若原麻希";
     "KOBerrieS♪":"長谷川鈴菜" -> "scribble scritch":"スズナージャ";
     "KOBerrieS♪":"間中芽衣" -> "それでも時代はまわってます。":"間中芽衣" -> "XPLACE":"間中芽衣";
     "KRD8":"雨情華月" -> "劇場版ゴキゲン帝国Ω":"雨情華月";
@@ -17643,7 +17875,6 @@ digraph g {
     "QunQun":"村山しほり" -> "れいしゅしゅ":"村山しほり" -> "流星群少女":"村山しほり" -> "GALETTe":"村山しほり"
     "QunQun":"松口侑生菜" -> "天使ト梅雨ソラ。":"松口侑生菜";
     "QunQun":"江嶋綾恵梨" -> "26時のマスカレイド":"江嶋綾恵梨";
-    "RABBIT KICK":"" -> "campus":"";
     "RABBIT KICK":"仲原愛菜" -> "campus":"仲原愛菜" -> "RIOT BABY":"AINA";
     "RABBIT KICK":"友喜愛乃" -> "campus":"友喜愛乃";
     "RABBIT KICK":"大空美月" -> "campus":"大空美月" -> "2o Love to Sweet Bullet":"大空美月";
@@ -17802,7 +18033,10 @@ digraph g {
     "Team くれれっ娘！":"秋吉真衣" -> "北琉夢ラビリンス":"秋吉真衣";
     "Team くれれっ娘！":"青木千春" -> "WHY@DOLL":"青木千春";
     "Team くれれっ娘！":"高橋里予" -> "ICE☆PASTEL":"高橋里予";
+    "The Grateful a MogAAAz":"あみのころみ" -> "めろん畑a go go":"あみのころみ";
+    "The Grateful a MogAAAz":"知世千世" -> "めろん畑a go go":"知世千世";
     "Tokyo Cheer② Party":"土光瑠璃子" -> "FES☆TIVE":"土光瑠璃子" -> "るかりな":"土光瑠璃子";
+    "Tokyo Flight 5":"別所愛珠香" -> "Clapotis":"別所愛珠香";
     "Tokyo Rockets":"坂本実紅" -> "EMIU":"坂本実紅";
     "Tokyo Rockets":"浅利桃子" -> "LOVE SPEARS":"凪海ももこ";
     "Twinkle☆Stars":"佐藤愛菜" -> "clarté":"佐藤愛菜";
@@ -17902,6 +18136,7 @@ digraph g {
     "e-Street":"関根優那" -> "Cheeky Parade":"関根優那";
     "e-Street":"青木詠夢" -> "e-Street TOKYO":"青木詠夢";
     "elsy":"渋谷佳子" -> "アルテミスの翼":"メドゥーサ・カコ";
+    "expiece":"松下ひよこ" -> "ゆめはじ":"加仲ひよこ" -> "K+RANK'IN":"加仲ひよこ";
     "garnet.garnet..":"神代冥" -> "NONSTOP":"神代冥";
     "garnet.garnet..":"逢沢ありあ" -> "ハニースパイスRe.":"逢沢ありあ";
     "icmworks.":"七光美咲" -> "FANTASTic*VISION":"七光美咲";
@@ -17980,6 +18215,7 @@ digraph g {
     "usa☆usa少女倶楽部":"鈴木綾音" -> "mogu☆mogu":"鈴木綾音";
     "usa☆usa少女倶楽部":"関根うさぎ" -> "Teen's Heaven":"関根うさぎ";
     "utatane":"天国みう" -> "81limited":"天国みう";
+    "utatane":"花咲もあ" -> "変ワルセカイと変ワラナイモノ":"花咲もあ";
     "w-Street FUKUOKA":"内村莉彩" -> "e-Street TOKYO":"内村莉彩" -> "TOKYO TORiTSU これで委員会":"内村莉彩" -> "SUPER☆GiRLS":"内村莉彩";
     "w-Street FUKUOKA":"廣川奈々聖" -> "FUKUOKA はかたみにょん★":"廣川奈々聖" -> "わーすた":"廣川奈々聖";
     "w-Street FUKUOKA":"森岡悠" -> "e-Street TOKYO":"森岡悠" -> "GEM":"森岡悠";
@@ -18193,6 +18429,7 @@ digraph g {
     "みにちあ☆ベアーズ":"高見真愛" -> "3B junior":"永山真愛" -> "奥澤村":"永山真愛";
     "むすびズム":"今井マイ" -> "クロスノエシス":"MAI";
     "むすびズム":"山田なみ" -> "【eN】":"やまだなみ";
+    "めろん畑a go go":"ミュータントみゆ太郎" -> "SKIRMISH":"baby";
     "ももいろクローバーZ":"佐々木彩夏" -> "浪江女子発組合":"佐々木彩夏";
     "ももいろクローバーZ":"高井つき奈" -> "Simpatix":"高井つき奈";
     "ゆるっと革命団":"天原瑠理" -> "SAY-LA":"天原瑠理" -> "MELT":"天原瑠理";
@@ -18237,9 +18474,15 @@ digraph g {
     "アイドルネッサンス":"宮本茉凜" -> "AIS -All Idol Songs-":"宮本茉凜";
     "アイドルネッサンス":"百岡古宵" -> "開歌-かいか-":"百岡古宵";
     "アイドルネッサンス":"野本ゆめか" -> "CARRY LOOSE":"ユメカ・ナウカナ?";
+    "アイドル諜報機関LEVEL7":"秋元美咲" -> "K+RANK'IN":"秋元美咲";
     "アオハルsince2015":"遠藤朱音" -> "LiT":"望月朱音";
     "アキシブproject":"大谷映美里" -> "=LOVE":"大谷映美里";
     "アキシブproject":"石川夏海" -> "Love Cocchi":"石川夏海";
+    "アミーガス":"まお" -> "せのしすたぁ":"まお" -> "最高じぇねれーしょん":"まお";
+    "アミーガス":"みか" -> "せのしすたぁ":"みか";
+    "アミーガス":"ゆい" -> "せのしすたぁ":"ゆーたん";
+    "アミーガス":"ゆうほ" -> "せのしすたぁ":"ゆうほ";
+    "アミーガス":"ゆま" -> "せのしすたぁ":"ゆま";
     "アモレカリーナ":"かわなごなつみ" -> "PIDL☆未来stage":"かわなごなつみ" -> "≠ME":"川中子奈月心";
     "アモレカリーナ":"春日佳奈子" -> "東京Cute Cute":"春日佳奈子" -> "Chu-Z":"春日かなこ";
     "アモレカリーナ":"木﨑千聖" -> "ラストアイドル2期生":"木﨑千聖";
@@ -18458,6 +18701,7 @@ digraph g {
     "ナト☆カン":"為永七海" -> "7☆3":"為永七海";
     "ナト☆カン":"百瀬優美" -> "Nゼロ":"板橋ゆーみん優美";
     "ナト☆カン":"遠藤遥" -> "ALLOVER":"遠藤遥" -> "グーグールル":"遠藤遥";
+    "ナナランド":"牧野あやみ" -> "LOVEbite":"漆間あやみ";
     "ハコイリ♡ムスメ":"樋井紅陽" -> "campus":"ひのいあさひ";
     "ハコイリ♡ムスメ":"菅沼もにか" -> "FLOWLIGHT":"三田萌日香" -> "アイオケ":"三田萌日香";
     "ハコイリ♡ムスメ":"阿部かれん" -> "bob up.":"音羽かのん";
@@ -18520,6 +18764,8 @@ digraph g {
     "ミニスカポリス":"藍川千佳" -> "アリス十番":"藍川千佳";
     "ミニスカポリス":"高梨うみ" -> "#f606":"美坂みさ";
     "ミニスカポリス":"高橋莉江" -> "Short Story":"高橋莉江";
+    "ミライスカート":"林奈緒美" -> "最高じぇねれーしょん":"林奈緒美";
+    "ミライスカート":"相谷麗菜" -> "我儘ラキア":"相谷麗菜";
     "ミラクルキャンディーベリー＋":"伊藤星" -> "いちごみるく色に染まりたい。":"伊藤星";
     "ミラクルキャンディーベリー＋":"前野えま" -> "FAVO♡":"前野えま";
     "ミラクルキャンディーベリー＋":"本間菜穂" -> "FAVO♡":"本間菜穂";
@@ -18546,6 +18792,8 @@ digraph g {
     "ヤンチャン学園 音楽部":"茜さや" -> "GracoRex NEO":"茜さや";
     "ヤンチャン学園 音楽部":"藤縄穂月" -> "No,SateLight":"藤縄穂月";
     "ユメノカケラ":"渡辺葉月" -> "サクヤコノハナ":"渡辺葉月" -> "KRD8":"渡辺葉月";
+    "ラフ☆ちっく":"あゆぴー" -> "963":"ぴーぴる";
+    "ラフ☆ちっく":"えりんこ" -> "彼女のサーブ&レシーブ":"えり";
     "ラブアグレッション":"瀧沢乃々華" -> "日日是好日":"瀧沢乃々華";
     "ラルムーン":"海老原みあ" -> "CLUSTAR.候補生":"海老原みあ" -> "ハープスター":"海老原みあ" -> "JYA☆PON":"海老原みあ";
     "ラルムーン":"知里美幸" -> "アイドルモドキ":"知里美幸";
@@ -18619,7 +18867,9 @@ digraph g {
     "少女隊":"木村葉月" -> "FLOWLIGHT":"木村葉月";
     "少女隊":"西野早耶" -> "≠ME":"谷崎早耶";
     "川崎純情小町☆":"伊藤みのり" -> "サンスポアイドルリポーター":"伊藤みのり";
+    "川崎純情小町☆":"前田薫里" -> "Vitamin Kiss":"RNP";
     "川越CLEAR'S":"五十嵐夏実" -> "東京CLEAR'S":"五十嵐夏実";
+    "平成-HiraNari-":"三日月ルーナ" -> "EUPHØLIC":"赤星リョウ";
     "平成琴姫":"Coco海里" -> "Dear L mana":"Coco海里" -> "Nina Pelea":"Coco海里";
     "平成琴姫":"如月ゆず" -> "姫恋エデン":"如月ゆず";
     "平成琴姫":"桜羽るか" -> "姫恋エデン":"桜羽るか";
